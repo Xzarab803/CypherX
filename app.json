@@ -26,12 +26,12 @@
       "required": false
     },
     "OWNER_NUMBER": {
-      "description": "Enter your number here, starting with country code (e.g., 2547xxxxxxxx, because even bots need to know how to reach you!)",
+      "description": "+923311397803",
       "value": "",
       "required": true
     },
     "OWNER_NAME": {
-      "description": "Enter your name here (Who’s the boss behind the scenes? Spoiler: It's you!)",
+      "description": "Zarab Baloch ",
       "value": "",
       "required": true
     },
